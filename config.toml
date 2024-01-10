@@ -1,0 +1,77 @@
+baseURL = "/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "anubis"
+paginate = 3
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+name = "DRAC"
+
+[params]
+author = "DRAC"
+description = "Anubis is a simple minimalist theme for Hugo blog engine."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = false
+# locale = "en-us"
+mathjax = false
+
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+  
+# [[params.social]]
+# id = "docs"
+# url = "https://gohugo.io/documentation/"
+
+# [[params.social]]
+# id = "github"
+# url = "https://github.com/mitrichius/hugo-theme-anubis"
+
+[languages.en]
+languageName = "English"
+title = "Digital Research Alliance of Canada - HSS Winter Series 2023"
+[[menu.main]]
+identifier = "about"
+name = "Program"
+url = "/program/"
+weight = 1
+[[menu.main]]
+identifier = "contact"
+name = "Contact 📬"
+url = "/contact/"
+weight = 2
+
+[languages.fr]
+languageName = "Français"
+title = "DRAC in French"
+[[languages.fr.menu.main]]
+identifier = "data"
+name = "Programme"
+url = "/program/"
+weight = 1
+[[languages.fr.menu.main]]
+identifier = "contact"
+name = "Contact 📬"
+url = "/contact/"
+weight = 2
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[markup.goldmark.renderer]
+unsafe = true
