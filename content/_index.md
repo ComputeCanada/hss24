@@ -10,4 +10,4 @@ Some text in English.
 
 Link to the [program](program).
 
-Register [here]().
+Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform).

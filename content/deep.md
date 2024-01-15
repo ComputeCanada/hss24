@@ -6,7 +6,7 @@ slug = "deep"
 
 **Welcome by**: 
 
-**Presented by**: Marie H. Burle 
+**Presented by**: Marie H. Burle
 
 **Duration**: 60 minutes
 

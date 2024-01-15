@@ -8,7 +8,7 @@ slug = "gis"
 
 **Presented by**: Julie Faure-Lacroix
 
-**Duration**: minutes
+**Duration**: 90 minutes
 
 **Description**: Need to create a map, but don't know how? Have you been asked to analyze geospatial data and
 you are wondering where to start? This introduction is for you. We will use QGIS to explore the world of
