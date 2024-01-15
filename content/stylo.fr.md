@@ -4,11 +4,11 @@ slug = "stylo"
 +++
 **14 février 2024, 12h00 à 13h30 HNE**
 
-**Welcome by**: 
+**Bienvenue par**: 
 
-**Presented by**: Diapositives traduites? (Guilia Ferretti and Roch Delannay)
+**Présenté par**: Diapositives traduites? (Guilia Ferretti and Roch Delannay)
 
-**Duration**: 90 minutes
+**Durée**: 90 minutes
 
 **Description**: À l'occasion de cet atelier pour les HSS Winter Series, nous présenterons les principales
 fonctionnalités de l'outil Stylo, un éditeur de texte sémantique accessible sur le Web et destiné à l'écriture
@@ -28,8 +28,8 @@ Lors de cet atelier, nous verrons ensemble comment créer et rédiger un texte d
 différentes fonctionnalités pour manipuler les éléments qui constitueront la source de nos documents que nous
 pourrons ensuite exporter en divers formats.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 
-#### Biography
+#### Biographie
