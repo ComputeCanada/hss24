@@ -8,14 +8,14 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "DRAC"
+name = "Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
 
 [params]
-author = "DRAC"
+author = "Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
-style = "auto"
+style = "auto-without-switcher"
 readMore = false
 readNextPosts = 2
 copyCodeButton = true
@@ -42,7 +42,7 @@ utterancesLabel = "" # optional
 
 [languages.en]
 languageName = "English"
-title = "Digital Research Alliance of Canada - HSS Winter Series 2023"
+title = "HSS Winter Series 2024"
 [[menu.main]]
 identifier = "about"
 name = "Program"
@@ -56,7 +56,7 @@ weight = 2
 
 [languages.fr]
 languageName = "Français"
-title = "DRAC in French"
+title = "École hivernale des SHS 2024"
 [[languages.fr.menu.main]]
 identifier = "data"
 name = "Programme"
@@ -64,7 +64,7 @@ url = "/program/"
 weight = 1
 [[languages.fr.menu.main]]
 identifier = "contact"
-name = "Contact 📬"
+name = "Nous joindre 📬"
 url = "/contact/"
 weight = 2
 
