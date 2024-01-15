@@ -1,23 +1,13 @@
 +++
-author = "Alliance HSS Team"
+author = "SFU"
 +++
 
-<a href="https://alliancecan.ca/fr/">
-    <img src="/images/drac.svg" width="100%" style="margin-top:64px; margin-bottom:32px;">
-</a>
+{{< figure src="/images/drac.svg" width="800px" >}}
 
-<font size="+3">École hivernale des sciences humaines et sociales 2024</font>
+<font size="+3">Header in French</font>
 
-**Du 12 au 16 février**,
-[l’Alliance de recherche numérique du Canada](https://alliancecan.ca/fr/) et la
-[Fédération de l’Alliance](https://alliancecan.ca/fr/services/calcul-informatique-de-pointe/la-federation)
-présenteront une série d’ateliers pour les chercheuses et chercheurs qui veulent utiliser
-des outils numériques dans leur projet de recherche en sciences humaines et sociales.
+Some text in French.
 
-* Voir le **[programme ici](program)**
-* **[Inscrivez-vous ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)**
+Link to the [program](program).
 
-*La plupart des ateliers sont admissibles au
-Certificat Canadien en Humanités Numériques (cc:DH/HN).
-Si vous souhaitez en savoir plus sur le certificat,
-visitez https://ccdhhn.ca/fr/.*
+Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link).
