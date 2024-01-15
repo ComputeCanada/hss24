@@ -1,13 +1,23 @@
 +++
-author = "SFU"
+author = "Alliance HSS Team"
 +++
 
-{{< figure src="/images/drac.svg" width="800px" >}}
+<a href="https://alliancecan.ca">
+    <img src="/images/drac.svg" width="100%" style="margin-top:64px; margin-bottom:32px;">
+</a>
 
-<font size="+3">Header in English</font>
+<font size="+3">Humanities and Social Sciences Winter Series 2024</font>
 
-Some text in English.
+**February 12-16, 2024**,
+the [Digital Research Alliance of Canada](https://alliancecan.ca) and the
+[Alliance Federation](https://alliancecan.ca/en/services/advanced-research-computing/federation)
+will be offering an introductory digital research tools webinar series
+for humanities, arts and social sciences researchers.
 
-Link to the [program](program).
+* See the **[program here](program)**
+* **[Register here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)**
 
-Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform).
+*Most of these workshops are eligible to count towards the
+Canadian Certificate for Digital Humanities (cc:DH/HN).
+If you’re interested in learning more about the certificate,
+visit https://ccdhhn.ca/.*
