@@ -13,7 +13,7 @@ slug = "commons"
 **Description**: Comment configurer un profil professionnel, bâtir une communauté en ligne et partager des
 connaissances à l’aide de la plateforme HSS Commons.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/commons). -->
 

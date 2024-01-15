@@ -10,4 +10,4 @@ Some text in French.
 
 Link to the [program](program).
 
-Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform).
+Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link).

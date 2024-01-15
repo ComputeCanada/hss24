@@ -14,7 +14,7 @@ slug = "odesi"
 sciences sociales et un outil en ligne d’exploration et d’analyse. Nous ferons un survol des fonctionnalités
 disponibles, des méthodes de recherche, d’exploration et de réutilisation des données dans les collections.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 

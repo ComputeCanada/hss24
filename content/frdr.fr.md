@@ -14,7 +14,7 @@ slug = "frdr"
 le Dépôt fédéré de données de recherche (DFDR), le dépôt Dataverse canadien (Borealis) et le service national
 de découverte de données du Canada (Lunaris).
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 

@@ -16,7 +16,7 @@ vous. Avec QGIS, nous explorons le monde des systèmes d’information géograph
 différentes étapes de la création d’une carte simple. Nous effectuerons certaines opérations de base et nous
 découvrirons les données ouvertes disponibles à même QGIS et ailleurs sur le Web.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 

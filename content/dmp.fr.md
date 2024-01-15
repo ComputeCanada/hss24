@@ -16,7 +16,7 @@ gestion de données pour les demandes de subvention, les journaux et autres orga
 aurez aussi la chance d’aborder des questions, spécifiques à votre discipline, liées à la gestion des données
 utilisées au cours de la recherche et à l’archivage à long terme de celles-ci.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 

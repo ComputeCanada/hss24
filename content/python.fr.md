@@ -13,7 +13,7 @@ slug = "python"
 **Description**: Dans un notebook Python, nous verrons comment utiliser des variables, des listes et des
 dictionnaires, comment définir et appeler des fonctions et comment utiliser des bibliothèques externes.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 

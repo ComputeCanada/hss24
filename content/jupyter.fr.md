@@ -17,7 +17,7 @@ document. Cet outil peut aussi exécuter une à la fois les lignes d'un programm
 avec justesse leurs effets respectifs. Cette formation vous outillera pour mettre à profit l'interface
 graphique de JupyterLab et ses fonctionnalités phares.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- Le même séminaire [en français](/template). -->
 

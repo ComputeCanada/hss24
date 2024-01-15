@@ -13,7 +13,7 @@ slug = "keynote"
 **Description**: L'histoire de l’équipe nationale des SHS et une vision de l’avenir du soutien informatique
 pour les chercheuses et chercheurs en SHS.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "ici">}}
+Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
 
 <!-- The same workshop [in English](/keynote). -->
 
