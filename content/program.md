@@ -6,8 +6,6 @@ aliases: ["program"]
 author: "HSS National Team"
 ---
 
-If you have any questions, please write to: `hss-series@gw.alliancecan.ca`.
-
 *All times are in Eastern Standard Time (EST).*
 
 ## February 12

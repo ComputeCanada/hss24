@@ -1,12 +1,10 @@
 ---
 title: "Programme"
-description: "HSS Winter Series program"
+description: "Programme de l'école hivernale des SHS"
 date: "2024-01-15"
 aliases: ["program"]
 author: "HSS National Team"
 ---
-
-Si vous avez des questions, écrivez-nous : `hss-series@gw.alliancecan.ca`.
 
 *Toutes les heures sont exprimées en heure normale de l’Est (HNE).*
 
