@@ -2,8 +2,8 @@
     <div class="header-top-left">
         {{ partial "site-title.html" . }}
     </div>
-    {{ .Site.Title }}
-    <div class="header-top-right">
+    <a href="/{{ .Page.Lang }}/">{{ .Site.Title }}</a>
+    <div class="header-top-left" style="margin-left: 8px;">
         {{ partial "theme-switcher.html" . }}
         {{ partial "post-language-switcher.html" .}}
     </div>

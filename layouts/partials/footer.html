@@ -1,10 +1,17 @@
 <footer class="common-footer">
-    {{ $languagesCount := $.Site.Home.AllTranslations }}
-    {{ if gt $languagesCount 1 }}
-        {{ partial "language-switcher.html" . }}
-    {{ end }}
+    <div class="header-top" style="margin-top: 0;">
+        <div>
+            <img src="/images/drac.svg" height="32px"
+            style="background-color: white; border-radius: 8px; margin: 8px 16px 0px 16px; padding: 8px 4px 4px 4px;" />
+        </div>
 
-    <div class="common-footer-bottom" style="color:#777">
+        {{ $languagesCount := $.Site.Home.AllTranslations }}
+        {{ if gt $languagesCount 1 }}
+            {{ partial "language-switcher.html" . }}
+        {{ end }}
+    </div>
+
+    <div class="common-footer-bottom">
         {{ if .Site.Menus.footer }}
             {{ $currentPage := . }}
             <ul class="footer-menu">
@@ -13,13 +20,11 @@
             {{ end }}
             </ul>
         {{ end }}
-        <div class="copyright">
+        <div class="copyright" style="color:#777; font-size: smaller; text-align: center; width: 100%;">
             <p>© {{ if isset .Site.Params "author"}}{{ .Site.Params.author }}, {{end}}{{ now.Year }}<br>
             {{ i18n "powered" }} <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, {{ i18n "theme" }} <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
             {{ partial "footer-extra.html" . }}
             </p>  
         </div> 
     </div>
-
-    {{ partial "h-card.html" . }}
 </footer>

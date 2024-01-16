@@ -90,7 +90,7 @@ If you have any questions, please write to: `hss-series@gw.alliancecan.ca`.
 
 <table>
   <tr>
-    <td>1:00-2:00 pm</td>
+    <td>1:00-2:00pm</td>
     <td colspan="3"><a href="../deep">Introduction to deep learning, NLP, and LLMs</a></td>
   </tr>
   <tr>
