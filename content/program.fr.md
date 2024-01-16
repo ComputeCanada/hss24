@@ -6,7 +6,10 @@ aliases: ["program"]
 author: "HSS National Team"
 ---
 
-*Toutes les heures sont exprimées en heure normale de l’Est (HNE).*
+Vous pouvez [vous inscrire via le formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+à autant d’ateliers que vous le souhaitez.
+
+*Toutes les heures sont exprimées en **heure normale de l’Est** (HNE).*
 
 ## 12 février
 
@@ -51,7 +54,7 @@ author: "HSS National Team"
   </tr>
 </table>
 
-## 14 février
+## 14 février ❤️
 
 <table>
   <tr>

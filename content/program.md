@@ -6,7 +6,10 @@ aliases: ["program"]
 author: "HSS National Team"
 ---
 
-*All times are in Eastern Standard Time (EST).*
+You may [register in this form](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+for as many or as few of the sessions as you wish.
+
+*All times are in **Eastern Standard Time** (EST).*
 
 ## February 12
 
@@ -50,7 +53,7 @@ author: "HSS National Team"
   </tr>
 </table>
 
-## February 14
+## February 14 ❤️
 
 <table>
   <tr>
