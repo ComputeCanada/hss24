@@ -1,0 +1,25 @@
+{{ if .IsTranslated }}
+    {{ $pageLang := .Page.Lang}}
+    <span>
+        <style>
+            .post-translations > li:not(:last-child)::after {
+                content: "\00A0|\00A0";
+                display: inline-block;
+                
+            }
+        </style>
+        <ul class="post-translations" style="margin:0;">
+            {{ range (sort .AllTranslations ".Lang" "asc" ) }}
+                {{ if eq .Lang $pageLang }}
+                    <li>
+                        {{ upper .Lang }}
+                    </li>
+                {{ else }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ upper .Lang }}</a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </span>
+{{ end }}
