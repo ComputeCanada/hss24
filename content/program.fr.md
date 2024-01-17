@@ -16,7 +16,7 @@ Vous pouvez [vous inscrire via le formulaire](https://docs.google.com/forms/d/e/
 <table>
   <tr>
     <td>12h00&#x00A0;à&#x00A0;13h00</td>
-    <td><a href="../keynote">Présentation principale par John Simpson (l’ISDE)</a></td>
+    <td><a href="../keynote">Présentation principale par John Simpson (de l’ISDE)</a></td>
   </tr>
   <tr>
     <td>13h15&#x00A0;à&#x00A0;13h45</td>

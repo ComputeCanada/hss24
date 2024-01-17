@@ -10,20 +10,41 @@ slug = "keynote"
 
 **Duration**: 60 minutes
 
-**Description**: History of the national HSS team and a vision for the future of Digital Research
-Infrastructure support for HSS researchers.
+**Description**:
+This 60 minute keynote presentation will
+be divided into three, roughly equal, parts.
+The first will share how the Humanities and Social Sciences National
+Support Team with the Digital Research Alliance of Canada began, key
+challenges that were faced, and approaches taken to overcoming them.
+Skipping the present state, the second part will suggest
+directions that support for Digital Humanities and Social
+Sciences should consider as it moves to the future.
+The third section will be open to questions from the audience
+on the topic of supporting Digital Humanities and Social
+Sciences in either the past (then) or the future (then).
+Questions about the present (now) will also be welcome.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/keynote). -->
+* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
 
-<!-- **Megan Meredith-Lobay** is the Associate Director of Research Computing at -->
-<!-- Simon Fraser University, and one of the Alliance HSS National Team Leads. -->
-<!-- She holds a Ph.D. from the University of Cambridge in Archaeology, -->
-<!-- where she used various computing resources to investigate ritual -->
-<!-- landscapes in the Late Iron Age/Early Medieval Scotland. -->
-<!-- In addition, Megan has supported digital researchers in the Humanities -->
-<!-- and Social Sciences for the last fifteen years at the University of -->
-<!-- Alberta, Oxford University, and the University of British Columbia. -->
+**John Simpson** is the Senior Advisor on Digital Research Infrastructure
+Strategy for Innovation, Science and Economic Development Canada.
+Immediately prior to this role he was the
+Senior Director of Strategic Initiatives for Compute Canada.
+Immediately prior to this role — and a principal reason for this keynote —
+he was Compute Canada’s Humanities and Social Sciences Specialist and the
+inaugural lead for the Humanities and Social Sciences National Support team.
+He came to these roles following postdoctoral fellowships with INKE and
+Text Mining and Visualization for Digital Literary History, U Alberta.
+He’s also served as an Instructor in the Philosophy Department, a Programmer
+with the Old Bailey Project at U Alberta, and was the inaugural instructor
+for the Digital Humanities Summer Institute’s course on coding.
+Dr. Simpson holds a Ph.D. Philosophy (2010), University of Alberta.
+He has authored or co-authored
+“The Changing Culture of Humanities Scholarship: Iteration, Recursion,
+and Versions in Scholarly Collaboration Environments” (2014),
+“From XML to RDF in the Orlando Project” (2013),
+“Building Ontologies in Theory and Practice” (2013),
+“Getting LODed with Orlando: Linked Open Data and the Orlando Project” (2013),
+and “The Key to All Ontologies?: The Long Now of Linked Data” (2013).

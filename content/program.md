@@ -16,7 +16,7 @@ for as many or as few of the sessions as you wish.
 <table>
   <tr>
     <td>12:00-1:00pm</td>
-    <td><a href="../keynote">Keynote from John Simpson (ISED)</a></td>
+    <td><a href="../keynote">Keynote from John Simpson (from ISED)</a></td>
   </tr>
   <tr>
     <td>1:15-1:45pm</td>
