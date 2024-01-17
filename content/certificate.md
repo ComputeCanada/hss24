@@ -11,7 +11,7 @@ slug = "certificate"
 **Duration**: 30 minutes
 
 **Description**: Did you know that you can count your participation in the Alliance HSS Winter Workshop series
-towards the The Canadian Certificate in Digital Humanities/Certificat canadien en Humanités Numériques
+towards the The Canadian Certificate in Digital Humanities
 (cc:DH/HN)?
 
 This session will explain how to earn a cc:DH/HN certificate, and how to become a partner organization. This
@@ -20,8 +20,14 @@ who are looking for places to gain new skills.
 
 For more information on the certificate, visit https://ccdhhn.ca
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/certificate). -->
+* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
+
+**Dr. Laura Estill** is a Canada Research Chair in Digital Humanities
+and Professor of English at St. Francis Xavier University in Mi’kma’ki,
+the ancestral and unceded territory of the Mi’kmaq People (Nova Scotia).
+She has recently co-edited Digital Humanities Workshops (2023)
+with Jennifer Guiliano and a special issue on pedagogy in
+Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH
+3.4, 2023), co-edited with Constance Crompton and Ray Siemens.
