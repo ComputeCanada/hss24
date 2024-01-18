@@ -34,7 +34,7 @@ Vous pouvez [vous inscrire via le formulaire](https://docs.google.com/forms/d/e/
 <table>
   <tr>
     <td>10h30&#x00A0;à&#x00A0;11h50</td>
-    <td colspan="3"><a href="../gis">GIS et QGIS pour les néophytes</a></td>
+    <td colspan="3"><a href="../gis">SIG et QGIS pour les néophytes</a></td>
   </tr>
   <tr>
     <td>12h00&#x00A0;à&#x00A0;13h30</td>
