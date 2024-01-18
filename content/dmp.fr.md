@@ -6,7 +6,7 @@ slug = "dmp"
 
 **Bienvenue par**: 
 
-**Présenté par**: Diapositives traduites? (Nick Rochlin)
+**Présenté par**: Sandy Hervieux et Alisa Beth Rod
 
 **Durée**: 90 minutes
 
@@ -16,8 +16,18 @@ gestion de données pour les demandes de subvention, les journaux et autres orga
 aurez aussi la chance d’aborder des questions, spécifiques à votre discipline, liées à la gestion des données
 utilisées au cours de la recherche et à l’archivage à long terme de celles-ci.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
+* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
-<!-- Le même séminaire [en français](/template). -->
+#### Biographies
 
-#### Biographie
+**Sandy Hervieux** est bibliothécaire en chef de la
+bibliothèque de droit Nahum Gelber de l’Université McGill.
+Elle détient une maîtrise en sciences de l’information de l’Université McGill.
+Ses recherches portent sur les services de référence et l’impact
+de l’intelligence artificielle sur les services aux utilisateurs.
+
+**Alisa Beth Rod, PhD**, est la spécialiste en gestion des
+données de recherche à la bibliothèque de l'Université McGill.
+Elle détient une maîtrise en sciences de l’information de
+l’Université McGill et une maîtrise et un doctorat en sciences
+politiques de la University of California, Santa Barbara.
