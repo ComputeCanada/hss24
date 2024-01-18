@@ -6,17 +6,20 @@ slug = "sensitive"
 
 **Bienvenue par**: 
 
-**Présenté par**: Diapositives traduites? (Meghan Landry and Victoria Smith)
+**Présenté par**: Catherine Paquet
 
 **Durée**: 60 minutes
 
-**Description**: Cette présentation vise à donner un survol de la gestion des données de recherche au Canada,
-en particulier la gestion des données sensibles sur des êtres humains dans le contexte de la politique de GDR
-des trois organismes (2021) et de l'énoncé de politique des trois conseils : Éthique de la recherche avec des
-êtres humains (EPTC 2022).
+**Description**:
+Cette présentation vise à donner un survol de la gestion des données de
+recherche au Canada, en particulier la gestion des données sensibles
+sur des êtres humains dans le contexte de la politique de GDR des trois
+organismes (2021) et de l'énoncé de politique des trois conseils :
+Éthique de la recherche avec des êtres humains (EPTC 2022).
+Une variété de ressources et d’outils des institutions et du fédéral
+seront présentés, de même que les bonnes pratiques lors de la
+collecte, la préservation et le partage de données sensibles.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographie
