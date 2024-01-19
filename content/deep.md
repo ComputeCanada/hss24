@@ -6,7 +6,7 @@ slug = "deep"
 
 **Welcome by**: 
 
-**Presented by**: Marie H. Burle
+**Presented by**: Marie-Hélène Burle
 
 **Duration**: 60 minutes
 
@@ -22,8 +22,13 @@ The goals are to:
 - give an overview of the field, and
 - point out resources to get you started using DL, LLMs, or NLP for your research.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/template). -->
+Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
+
+Evolutionary and behavioural ecologist by training, Software/Data
+Carpentry instructor, and open source advocate, **Marie-Hélène
+Burle** develops and delivers training for researchers on
+high-performance computing tools (R, Python, Julia, Git, Bash
+scripting, machine learning, parallel scientific programming, HPC…)
+for Simon Fraser University and the Digital Research Alliance of Canada.

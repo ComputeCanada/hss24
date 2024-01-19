@@ -16,8 +16,18 @@ tout le monde parle? Comment puis-je créer un réseau de neurones? Qu’est-ce 
 Cette présentation vous donnera les réponses à ces questions au moyen d’une vulgarisation de ces concepts
 d’une discipline désormais cruciale pour la recherche de tout domaine.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographie
+
+**Lucas Nogueira** est d’abord un spécialiste des statistiques qui
+s’est réorienté en génie informatique et qui fait maintenant partie de
+Calcul Québec en tant qu’analyste en calcul informatique de pointe.
+L’apprentissage machine, l’intelligence artificielle et la prise de
+décision selon des degrés d’incertitude font partie de ses intérêts.
+Inspirant vulgarisateur, il croit que la science a longtemps
+eu un problème de langage, où le formalisme des énoncés rend
+les concepts plus compliqués que ce qu’ils sont vraiment.
+Enfin, il est diplômé d’une maîtrise en gestion
+d’innovation et d’entrepreneurship de Queen’s University
+et d’un DESS en statistiques de Stanford University.
