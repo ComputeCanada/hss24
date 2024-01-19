@@ -14,8 +14,6 @@ slug = "r"
 servir dans la recherche et qui devrait en bénéficier. Suite à l’école hivernale des SHS, un atelier
 interactif avec R sera offert par Calcul Québec.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographie

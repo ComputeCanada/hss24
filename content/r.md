@@ -6,7 +6,7 @@ slug = "r"
 
 **Welcome by**: 
 
-**Presented by**: Marie H. Burle
+**Presented by**: Marie-Hélène Burle
 
 **Duration**: 60 minutes
 
@@ -21,8 +21,13 @@ benefit most from learning it.
 This high-level introduction will be followed by a hands-on workshop to get you started in R the week after
 the HSS Series.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
+
+Evolutionary and behavioural ecologist by training, Software/Data
+Carpentry instructor, and open source advocate, **Marie-Hélène
+Burle** develops and delivers training for researchers on
+high-performance computing tools (R, Python, Julia, Git, Bash
+scripting, machine learning, parallel scientific programming, HPC…)
+for Simon Fraser University and the Digital Research Alliance of Canada.
