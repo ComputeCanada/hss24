@@ -16,8 +16,6 @@ visualizations in a single document. This tool can also execute the lines of a p
 allow their respective effects to be accurately identified. This training will equip you to take advantage of
 JupyterLab's graphical interface and its key features.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
