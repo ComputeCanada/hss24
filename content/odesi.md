@@ -20,8 +20,18 @@ across thousands of datasets, supporting rich discovery and basic tabulation and
 session we will provide an overview of Odesi and available features, highlighting ways researchers can search,
 explore, and reuse data in the collections.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
+
+**Amber Leahey** is the Service Director for Borealis, the
+Canadian Dataverse Repository and the Data & GIS Librarian
+at Scholars Portal, Ontario Council of University Libraries.
+At Scholars Portal and Borealis, she supports national infrastructure
+development for libraries and researchers, community engagement and training,
+stakeholder and governance relations, participates in various Alliance
+RDM Expert and Working Groups, and research projects alongside community
+and institutional partners, including the recent Canadian Census
+Data Discovery Partnership Project (CCDDP), a national SSHRC funded
+partnership project to improve discovery and access to historical
+and current Census data in all formats for use in research.
