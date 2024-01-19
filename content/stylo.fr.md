@@ -6,9 +6,9 @@ slug = "stylo"
 
 **Bienvenue par**: 
 
-**Présenté par**: Diapositives traduites? (Guilia Ferretti and Roch Delannay)
+**Présenté par**: Roch Delannay
 
-**Durée**: 90 minutes
+**Durée**: de 60 à 90 minutes
 
 **Description**: À l'occasion de cet atelier pour les HSS Winter Series, nous présenterons les principales
 fonctionnalités de l'outil Stylo, un éditeur de texte sémantique accessible sur le Web et destiné à l'écriture
@@ -28,8 +28,22 @@ Lors de cet atelier, nous verrons ensemble comment créer et rédiger un texte d
 différentes fonctionnalités pour manipuler les éléments qui constitueront la source de nos documents que nous
 pourrons ensuite exporter en divers formats.
 
-Inscrivez-vous {{<a "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform?usp=sf_link" "ici">}}
+**Requis techniques**: Créez un
+[compte Stylo gratuit](https://stylo.huma-num.fr/) avant la séance.
 
-<!-- Le même séminaire [en français](/template). -->
+* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographie
+
+**Roch Delannay** est doctorant en humanités numériques à
+l’université de Paris Nanterre et à l’université de Montréal.
+Sous la direction de Marta Severo, Marcello Vitali-Rosati et Emmanuel
+Château-Dutier, il mène sa recherche au croisement de la théorie des
+médias et des sciences de l’information et de la communication sur
+les processus de construction et de manifestation de l’intimité
+des chercheurs et chercheuses dans les publications scientifiques.
+Il coordonne le projet de recherche Stylo développé à la
+Chaire de recherche du Canada sur les écritures numériques.
+Il a récemment publié un article dans la revue POP! Public. Open.
+Participatory avec A. Fauchié, M. Sinatra et M. Vitali-Rosati intitulé
+« Exploring New (Digital) Publishing Practices with Le Pressoir ».
