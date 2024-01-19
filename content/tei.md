@@ -6,7 +6,7 @@ slug = "tei"
 
 **Welcome by**: 
 
-**Presented by**: Joey Takada
+**Presented by**: Joey Takeda
 
 **Duration**: 90 minutes
 
@@ -18,8 +18,15 @@ TEI to enrich their digital archives. We will also discuss the wide variety of t
 the TEI community for creating, sustaining, and publishing TEI encoded texts. No prior experience with markup
 languages, text encoding, or the digital humanities necessary.
 
-Register {{<a "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform" "here">}}
-
-<!-- Le même séminaire [en français](/template). -->
+* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
+
+**Joey Takeda** is a Developer in the Digital
+Humanities Innovation Lab at Simon Fraser University.
+He holds an MA in English Literature from the University of British
+Columbia and is currently an MLIS student at the University of Alberta.
+He sits on the Text Encoding Initiative (TEI) Technical Council
+(2023–2027) and has previously worked on various TEI projects,
+including The Winnifred Eaton Archive, the Map of Early
+Modern London, and the Landscapes of Injustice Digital Archive.
