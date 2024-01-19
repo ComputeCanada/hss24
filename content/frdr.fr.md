@@ -44,15 +44,17 @@ suivante pour en apprendre davantage sur [Odesi](../odesi/)!
 
 #### Biographies
 
-**Lina Harper (elle/eux)** est spécialisée dans plusieurs domaines
-tels que les sciences sociales, les humanités numériques, les
-communications, la science ouverte et la science de l’information.
-Effectuant de la curation de données à l’Alliance, Lina travaille
-conjointement avec les communautés canadiennes et internationales
-de différents Dataverse afin de créer des ponts entre les experts.
-Elle possède un BA en communication de l’Université Concordia, est
-diplômée des Women’s Studies à l’Institut Simone de Beauvoir et a complété
-une maîtrise en études de l’information bilingue à l’Université d’Ottawa.
+**Lina Harper (elle/iel)** possède une vaste expérience en
+sciences sociales et en humanités numériques, en communications
+savantes, ainsi qu’en sciences ouvertes et en recherche sur
+les sciences de l’information de manière plus générale.
+En tant que responsable de la curation des données à l’Alliance, Lina travaille
+en étroite collaboration avec la communauté canadienne et internationale
+du Dataverse afin de combler les lacunes et de rapprocher les gens.
+Elle est titulaire d’un baccalauréat en communications de l’Université
+Concordia, d’un diplôme en études féminines de l’Institut Simone
+de Beauvoir, et elle a également terminé une thèse de maîtrise
+en sciences de l’information (bilingue) à l’Université d’Ottawa.
 
 **Jonathan Dorey** est un conseiller en gestion des données de recherche
 à l’Institut national de la recherche scientifique (INRS), l’École
