@@ -17,3 +17,10 @@ interactif avec R sera offert par Calcul Québec.
 * Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographie
+
+Détenant une maîtrise en biochimie, **Hélène Gingras** a travaillé
+pendant près de 15 ans dans un laboratoire de recherche en infectiologie.
+Elle poursuit en ce moment le microprogramme
+en informatique à l’Université Laval.
+Elle a rejoint récemment Calcul Québec à titre d’analyste
+et fait de l’aide aux utilisateurs des ressources de calcul.

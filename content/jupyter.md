@@ -19,3 +19,13 @@ JupyterLab's graphical interface and its key features.
 * Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biography
+
+**Elie Haber** completed his Ph.D. in Information and
+Systems Engineering from Concordia University in 2022.
+His doctoral thesis was focused on optimizing
+mobile edge computing in 5G networks.
+After obtaining his Ph.D., he pursued a
+six-month postdoctoral research program.
+Elie has five years of experience as an Application Developer.
+He is currently working as an analyst at Calcul
+Québec, associated with Concordia University.
