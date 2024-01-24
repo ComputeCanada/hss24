@@ -8,10 +8,10 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
+name = "Alliance Federation | Fédération de l'Alliance"
 
 [params]
-author = "Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
+author = "Digital Research Alliance of Canada Federation | Fédération de l'Alliance de recherche numérique du Canada"
 description = "Anubis is a simple minimalist theme for Hugo blog engine."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
