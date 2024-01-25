@@ -23,3 +23,17 @@ collecte, la préservation et le partage de données sensibles.
 * Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographie
+
+**Catherine Paquet** travaille en éthique de la recherche depuis
+2002 et occupe le poste de directrice du Bureau d'éthique d'intégrité
+de la recherche (BEIR) de l’Université d’Ottawa depuis 2010.
+En gère le processus d’évaluation éthique à l’Université et est la
+personne-ressource pour la conduite responsable de la recherche.
+Elle a siégé au Comité de direction de l’Association canadienne
+des comités d’éthique en recherche (CAREB-ACCER) de 2012
+à 2022 et a occupé le poste de présidente de 2018 à 2020.
+Elle est membre de divers comités et forums nationaux travaillant
+sur des questions liées à l'éthique de la recherche avec les humains
+ainsi qu'à l'intégrité de la recherche, y compris le groupe de travail
+sur les pratiques responsables de GDR pour les données sensibles
+qui a développé la boîte à outils sur les données sensibles.
