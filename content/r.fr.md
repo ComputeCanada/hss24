@@ -10,9 +10,12 @@ slug = "r"
 
 **Durée**: 60 minutes
 
-**Description**: Cet atelier présentera un survol de ce qu’est le langage de programmation R, à quoi il peut
-servir dans la recherche et qui devrait en bénéficier. Suite à l’école hivernale des SHS, un atelier
-interactif avec R sera offert par Calcul Québec.
+**Description**:
+Cet atelier présentera un survol de ce qu’est le langage de
+programmation R en ayant comme objectif l’analyse de données et en
+terminant par un aperçu de son utilisation dans les grappes de calcul.
+Pour donner suite à l’école hivernale des SHS, un
+atelier interactif avec R sera offert par Calcul Québec.
 
 * Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
