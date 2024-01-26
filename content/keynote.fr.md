@@ -28,8 +28,8 @@ Les questions à propos du présent sont aussi les bienvenues.
 *Cette présentation sera essentiellement en anglais,
 avec des diapositives traduites en français.
 Les questions à la fin pourront être posées en français.
-Par contre, les réponses en anglais du présentateur
-seront traduites en français que sur demande.*
+Les réponses en anglais du présentateur
+seront traduites en français sur demande.*
 
 * Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
@@ -51,7 +51,7 @@ Il a aussi été chargé de cours pour le département de philosophie,
 programmeur pour le Old Bailey Project à l’Université de
 l’Alberta et instructeur de programmation lors de la
 première édition du Digital Humanities Summer Institute.
-Dr Simpson détient un doctorat en philosophie de l’Université de l’Alberta (2010).
+John détient un doctorat en philosophie de l’Université de l’Alberta (2010).
 Il a écrit et coécrit
 “The Changing Culture of Humanities Scholarship: Iteration, Recursion,
 and Versions in Scholarly Collaboration Environments” (2014),

@@ -6,7 +6,7 @@ slug = "vis"
 
 **Bienvenue par**: 
 
-**Présenté par**: Diapositives traduites (Alex Razoumov)
+**Présenté par**: Diapositives partiellement traduites (Alex Razoumov)
 
 **Durée**: 60 minutes
 
@@ -24,6 +24,11 @@ d’un ensemble de textes — grâce à cette troisième dimension, nous
 pourrons visualiser plus clairement de grands jeux de données qu’en 2D.
 Nous ferons plusieurs démonstrations en direct que vous
 pourrez essayer sur votre ordinateur après l’atelier.
+
+*Cette présentation sera essentiellement en anglais.
+Les questions à la fin pourront être posées en français.
+Les réponses en anglais du présentateur
+seront traduites en français sur demande.*
 
 * Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 

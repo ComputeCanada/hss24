@@ -23,18 +23,17 @@ un réseau en développement d’envergure nationale qui est conçu et construit
 en fonction des diversités linguistiques, géographiques et culturelles
 des communautés de chercheuses et chercheurs en SHS au Canada.
 
-
 *Cette présentation sera essentiellement en anglais,
 avec des diapositives traduites en français.
 Les questions à la fin pourront être posées en français.
-Par contre, les réponses en anglais du présentateur
-seront traduites en français que sur demande.*
+Les réponses en anglais du présentateur
+seront traduites en français sur demande.*
 
 * Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
 
 #### Biographies
 
-**Dr Graham Jensen** est un assistant directeur et un chercheur
+**Graham Jensen** (Ph.D.) est un assistant directeur et un chercheur
 postdoctoral en recherche collaborative et ouverte en arts et humanités
 au Electronic Textual Cultures Lab de l’Université de Victoria.
 Il codirige la recherche, le développement et la
@@ -48,7 +47,7 @@ Ses domaines d’intérêts comprennent la littérature canadienne des
 et les approches des sciences humaines pour des publications
 ouvertes, la pédagogie et pour la création de communautés.
 
-**Dr Ray Siemens** (https://web.uvic.ca/~siemens/) est un
+**Ray Siemens** (Ph.D., https://web.uvic.ca/~siemens/) est un
 professeur émérite de la faculté des humanités à l’Université de
 Victoria, au Canada, en anglais et science informatique, et
 ancien directeur de chaire de recherche en humanités numériques.
