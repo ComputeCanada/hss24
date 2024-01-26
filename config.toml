@@ -8,11 +8,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Alliance Federation | Fédération de l'Alliance"
+name = "Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
 
 [params]
-author = "Digital Research Alliance of Canada Federation | Fédération de l'Alliance de recherche numérique du Canada"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+author = "Digital Research Alliance of Canada | Alliance de recherche numérique du Canada"
+description = "HSS Winter Series 2024 | École hivernale des SHS 2024"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
