@@ -65,10 +65,6 @@ Vous pouvez [vous inscrire via le formulaire](https://docs.google.com/forms/d/e/
     <td>14h00&#x00A0;à&#x00A0;15h30</td>
     <td colspan="3"><a href="../tei">Le Text Encoding Initiative (TEI)</a></td>
   </tr>
-  <tr>
-    <td>15h30&#x00A0;à&#x00A0;16h30</td>
-    <td colspan="3"><a href="">TBA</a></td>
-  </tr>
 </table>
 
 ## 15 février

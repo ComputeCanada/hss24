@@ -64,10 +64,6 @@ for as many or as few of the sessions as you wish.
     <td>2:00-3:30pm</td>
     <td colspan="3"><a href="../tei">The Text Encoding Initiative (TEI)</a></td>
   </tr>
-  <tr>
-    <td>3:30-4:30pm</td>
-    <td colspan="3"><a href="">TBA</a></td>
-  </tr>
 </table>
 
 ## February 15
