@@ -2,6 +2,21 @@
 title = "Managing sensitive data in Canada"
 slug = "sensitive"
 +++
+
+**### This session is cancelled ###**
+
+Due to unforeseen circumstances, we will have to cancel the English and
+French sessions for the *Managing Sensitive Data in Canada* presentations.
+We apologize for the inconvenience.
+
+Here are some references about **managing sensitive data**:
+
+* Alliance's [Sensitive Data Guidance](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-sensitive-data-guidance)
+* Tri-Council Policy Statement: [Ethical Conduct for Research Involving Humans – TCPS 2 (2022)](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html)
+
+<details>
+    <summary style="cursor: pointer;">Click here to see the cancelled session details.</summary>
+
 **February 13, 2024, 1:30-2:30 pm EST**
 
 **Welcome by**: 
@@ -15,8 +30,6 @@ management landscape, focusing on sensitive data involving human participants in
 RDM Policy (2021) and Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS
 2022). Various resources and tools at the institutional and federal levels will be discussed, as well as best
 practices in collecting, preserving, and sharing sensitive data.
-
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 
 #### Biographies
 
@@ -40,3 +53,5 @@ data management to a broad variety of services and initiatives.
 She supports the Sensitive Data Expert Group, and contributes
 expertise to Alliance work on Indigenous Data Sovereignty
 and on Equity, Diversity, Inclusivity and Accessibility.
+
+</details>

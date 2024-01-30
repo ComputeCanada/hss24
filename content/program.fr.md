@@ -41,10 +41,6 @@ Vous pouvez [vous inscrire via le formulaire](https://docs.google.com/forms/d/e/
     <td colspan="3"><a href="../dmp">L'Assistant du plan de gestion des données (PGD)</a></td>
   </tr>
   <tr>
-    <td>13h30&#x00A0;à&#x00A0;14h30</td>
-    <td colspan="3"><a href="../sensitive">Gestion des données sensibles au Canada</a></td>
-  </tr>
-  <tr>
     <td>15h00&#x00A0;à&#x00A0;16h00</td>
     <td colspan="3"><a href="../frdr">Introduction à DFDR, Lunaris et Borealis</a></td>
   </tr>

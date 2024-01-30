@@ -2,6 +2,21 @@
 title = "Gestion des données sensibles au Canada"
 slug = "sensitive"
 +++
+
+**### Cette présentation est annulée ###**
+
+Dû à des circonstances imprévues, nous devons annuler la présentation
+*Gestion des données sensibles au Canada*, en anglais et en français.
+Nous sommes désolés pour cette annulation.
+
+Voici quelques références à propos de la **gestion des données sensibles** :
+
+* [Conseils sur les données sensibles](https://alliancecan.ca/fr/services/gestion-des-donnees-de-recherche/apprentissage-et-ressources/ressources-de-formation#heading-conseils-sur-les-donnees-sensibles) de l'Alliance
+* Énoncé de politique des trois conseils : [Éthique de la recherche avec des êtres humains – EPTC 2 (2022)](https://ethics.gc.ca/fra/policy-politique_tcps2-eptc2_2022.html)
+
+<details>
+    <summary style="cursor: pointer;">Cliquez ici pour voir la description de la séance annulée.</summary>
+
 **13 février 2024, 13h30 à 14h30 HNE**
 
 **Bienvenue par**: 
@@ -20,8 +35,6 @@ Une variété de ressources et d’outils des institutions et du fédéral
 seront présentés, de même que les bonnes pratiques lors de la
 collecte, la préservation et le partage de données sensibles.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
-
 #### Biographie
 
 **Catherine Paquet** travaille en éthique de la recherche depuis
@@ -37,3 +50,5 @@ sur des questions liées à l'éthique de la recherche avec les humains
 ainsi qu'à l'intégrité de la recherche, y compris le groupe de travail
 sur les pratiques responsables de GDR pour les données sensibles
 qui a développé la boîte à outils sur les données sensibles.
+
+</details>

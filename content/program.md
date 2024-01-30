@@ -40,10 +40,6 @@ for as many or as few of the sessions as you wish.
     <td colspan="3"><a href="../dmp">Data Management Plan (DMP) Assistant</a></td>
   </tr>
   <tr>
-    <td>1:30-2:30pm</td>
-    <td colspan="3"><a href="../sensitive">Managing sensitive data in Canada</a></td>
-  </tr>
-  <tr>
     <td>3:00-4:00pm</td>
     <td colspan="3"><a href="../frdr">Introduction to FRDR, Lunaris, and Borealis</a></td>
   </tr>
