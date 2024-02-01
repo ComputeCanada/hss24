@@ -16,11 +16,11 @@ for as many or as few of the sessions as you wish.
 <table>
   <tr>
     <td>12:00-1:00pm</td>
-    <td><a href="../keynote">Keynote from John Simpson (from ISED)</a></td>
+    <td><a href="../keynote">Keynote from John Simpson (from ISED)</a> *</td>
   </tr>
   <tr>
     <td>1:15-1:45pm</td>
-    <td><a href="../certificate">Canadian Certificate for Digital Humanities</a></td>
+    <td><a href="../certificate">Canadian Certificate for Digital Humanities</a> *</td>
   </tr>
   <tr>
     <td>1:45-2:45pm</td>
@@ -31,6 +31,9 @@ for as many or as few of the sessions as you wish.
     <td><a href="../gis">Introduction to GIS and QGIS</a></td>
   </tr>
 </table>
+
+<span style="font-size: smaller;">* This session is not eligible to count
+towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
 
 ## February 13
 
