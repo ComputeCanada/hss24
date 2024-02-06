@@ -6,7 +6,8 @@ slug = "commons"
 
 **Bienvenue par**: 
 
-**Présenté par**: Diapositives traduites (Graham Jensen and Ray Siemens)
+**Présenté par**: Diapositives traduites
+(Graham Jensen, Ray Siemens et Randa El Khatib)
 
 **Durée**: 60 minutes
 
@@ -69,3 +70,15 @@ and Humanities Research Council of Canada, en tant que vice-président
 et directeur de la Fédération canadienne des sciences humaines.
 Il est aussi membre de la chaire internationale
 Alliance of Digital Humanities Organizations.
+
+**Randa El Khatib** (Ph.D.) est une chercheuse postdoctorale au Electronic
+Textual Cultures Lab de l’Université de Victoria, en partenariat avec INKE.
+Elle est aussi codirectrice du Digital Humanities
+Summer Institute avec Alyssa Arbuckle et Ray Siemens.
+Jusqu’à tout récemment, elle a été chercheuse postdoctorale à
+l’Université de Toronto Scarborough et l’éditrice du Early
+Modern Digital Review, un journal spécialisé dans la révision de
+projets numériques faisant l’étude des débuts du monde moderne.
+En 2015, Randa a cofondé le Digital Humanities Institute
+de Beirut, soit le premier institut de formation en humanités
+numériques du Moyen-Orient, avec David Joseph Wrisley.

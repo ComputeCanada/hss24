@@ -6,7 +6,7 @@ slug = "commons"
 
 **Welcome by**: 
 
-**Presented by**: Graham Jensen and Ray Siemens
+**Presented by**: Graham Jensen, Ray Siemens and Randa El Khatib
 
 **Duration**: 60 minutes
 
@@ -56,3 +56,15 @@ Research Council of Canada, as Vice President / Director of the Canadian
 Federation of the Humanities and Social Sciences (for Research Dissemination),
 Chair of the MLA Committee on Scholarly Editions, and Chair of
 the international Alliance of Digital Humanities Organizations.
+
+**Dr. Randa El Khatib** is the MITACS Accelerate and INKE
+Partnership Postdoctoral Fellow in Open Social Scholarship in the
+Electronic Textual Cultures Lab at the University of Victoria.
+She is also the Co-Director of the Digital Humanities
+Summer Institute with Alyssa Arbuckle and Ray Siemens.
+Until recently, she was a Postdoctoral Fellow at the University of Toronto
+Scarborough and the Editor of Early Modern Digital Review, a journal
+that reviews digital projects that study the early modern world.
+In 2015, Randa co-founded the Digital Humanities Institute
+– Beirut – the first digital humanities training
+institute in the Middle East – with David Joseph Wrisley.
