@@ -19,11 +19,12 @@ plan for humanities and social sciences related research.
 
 #### Biography
 
-**Nick Rochlin** is the Research Data Management
-Specialist in UBC’s Advanced Research Computing team.
+**Nick Rochlin** is the RDM Specialist with the University of British
+Columbia’s Advanced Research Computing team, where he assists
+researchers in accessing and using digital research infrastructure
+(DRI), as well as with a variety of data management needs.
 He has a Masters of Library and Information Studies from UBC, and prior to
 joining UBC, he worked as a Business Librarian at Okanagan College where
 his focus was training students on data literacy and business research.
-He is active in the Portage Network of RDM professionals,
-co-chairing the Training Expert Group, and is an active
-member of the FRDR Discovery Redesign Working Group.
+He is active in the national support landscape for DRI in Canada, co-chairing
+the Digital Research of Alliance National Training and Education Group.
