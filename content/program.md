@@ -94,3 +94,24 @@ towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
     <td colspan="3"><a href="../vis">3D Visualization</a></td>
   </tr>
 </table>
+
+## February 26-28
+
+As a follow-up to the 2024 HSS Winter Series, the Alliance Federation will
+be offering a multi-day hands-on introductory to programming with Python
+or R webinar series for humanities, arts, and social sciences researchers.
+**These 6-hour simultaneous workshops will be provided over three days**.
+
+* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
+  (this is different registration form)
+
+<table>
+  <tr>
+    <td>12:00-2:00pm daily</td>
+    <td><a href="../python_6h">Introduction to programming with Python</a></td>
+  </tr>
+  <tr>
+    <td>12:00-2:00pm daily</td>
+    <td><a href="../r_6h">Introduction to programming with R</a></td>
+  </tr>
+</table>
