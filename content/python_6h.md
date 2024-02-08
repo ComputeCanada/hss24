@@ -1,5 +1,5 @@
 +++
-title = "Introduction to programming with R"
+title = "Introduction to programming with Python"
 slug = "python_6h"
 +++
 **February 26-28, 2024, 12:00-2:00 pm EST**
