@@ -103,7 +103,7 @@ or R webinar series for humanities, arts, and social sciences researchers.
 **These 6-hour simultaneous workshops will be provided over three days**.
 
 * [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-  (this is different registration form)
+  (this is a different registration form)
 
 <table>
   <tr>

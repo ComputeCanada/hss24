@@ -24,7 +24,7 @@ By the end of the workshop, you should be self-sufficient
 and able to use and keep learning R by yourself.
 
 * [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-  (this is different registration form)
+  (this is a different registration form)
 
 #### Biography
 

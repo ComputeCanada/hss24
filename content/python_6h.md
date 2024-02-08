@@ -23,7 +23,7 @@ in more details, including pandas for working with large
 tables, simple plotting with matplotlib, and few others.
 
 * [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-  (this is different registration form)
+  (this is a different registration form)
 
 #### Biography
 
