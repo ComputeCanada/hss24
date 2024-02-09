@@ -16,8 +16,6 @@ tout le monde parle? Comment puis-je créer un réseau de neurones? Qu’est-ce 
 Cette présentation vous donnera les réponses à ces questions au moyen d’une vulgarisation de ces concepts
 d’une discipline désormais cruciale pour la recherche de tout domaine.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
-
 #### Biographie
 
 **Lucas Nogueira** est d’abord un spécialiste des statistiques qui

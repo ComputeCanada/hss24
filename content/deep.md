@@ -22,8 +22,6 @@ The goals are to:
 - give an overview of the field, and
 - point out resources to get you started using DL, LLMs, or NLP for your research.
 
-Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
-
 #### Biography
 
 Evolutionary and behavioural ecologist by training, Software/Data

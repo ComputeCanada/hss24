@@ -15,7 +15,8 @@ will be offering an introductory digital research tools webinar
 series for humanities, arts and social sciences researchers.
 
 * See the **[program here](program)**
-* **[Register here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)**
+* **[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+  (closed)**
 
 *Most of these workshops are eligible to count towards the
 Canadian Certificate for Digital Humanities (cc:DH/HN).

@@ -50,7 +50,7 @@ url = "/program/"
 weight = 1
 [[menu.main]]
 identifier = "id_registration"
-name = "Registration ✔️"
+name = "Registration (closed) ✔️"
 url = "https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform"
 weight = 2
 [[menu.main]]
@@ -69,7 +69,7 @@ url = "/program/"
 weight = 1
 [[languages.fr.menu.main]]
 identifier = "id_registration"
-name = "Inscription ✔️"
+name = "Inscription (fermé) ✔️"
 url = "https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform"
 weight = 2
 [[languages.fr.menu.main]]

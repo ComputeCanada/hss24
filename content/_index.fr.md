@@ -16,7 +16,8 @@ chercheurs qui veulent utiliser des outils numériques dans
 leur projet de recherche en sciences humaines et sociales.
 
 * Voir le **[programme ici](program)**
-* **[Inscrivez-vous ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)**
+* **[Inscription](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+  (fermé)**
 
 *La plupart des ateliers sont admissibles au
 Certificat Canadien en Humanités Numériques (cc:DH/HN).
