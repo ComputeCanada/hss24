@@ -6,12 +6,33 @@ aliases: ["program"]
 author: "HSS National Team"
 ---
 
-You may [register in this form](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
-for as many or as few of the sessions as you wish.
+## Hands-on introductory workshops
+
+### February 26–28
+
+As a follow-up to the 2024 HSS Winter Series, the Alliance Federation will
+be offering hands-on introductory workshops to programming with Python
+and with R for researchers in the humanities, arts, and social sciences.
+**These workshops will be run simultaneously over six hours on February 26, 27, and 28**.
+
+* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
+
+<table>
+  <tr>
+    <td>12:00-2:00pm daily</td>
+    <td><a href="../python_6h">Introduction to programming with Python</a></td>
+  </tr>
+  <tr>
+    <td>12:00-2:00pm daily</td>
+    <td><a href="../r_6h">Introduction to programming with R</a></td>
+  </tr>
+</table>
+
+## Main Program
 
 *All times are in **Eastern Standard Time** (EST).*
 
-## February 12
+### February 12
 
 <table>
   <tr>
@@ -35,7 +56,7 @@ for as many or as few of the sessions as you wish.
 <span style="font-size: smaller;">* This session is not eligible to count
 towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
 
-## February 13
+### February 13
 
 <table>
   <tr>
@@ -52,7 +73,7 @@ towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
   </tr>
 </table>
 
-## February 14 ❤️
+### February 14 ❤️
 
 <table>
   <tr>
@@ -65,7 +86,7 @@ towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
   </tr>
 </table>
 
-## February 15
+### February 15
 
 <table>
   <tr>
@@ -82,7 +103,7 @@ towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
   </tr>
 </table>
 
-## February 16
+### February 16
 
 <table>
   <tr>
@@ -95,23 +116,3 @@ towards the Canadian Certificate for Digital Humanities (cc:DH/HN).</span>
   </tr>
 </table>
 
-## February 26–28
-
-As a follow-up to the 2024 HSS Winter Series, the Alliance Federation will
-be offering hands-on introductory workshops to programming with Python
-and with R for researchers in the humanities, arts, and social sciences.
-**These workshops will be run simultaneously over six hours on February 26, 27, and 28**.
-
-* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-  (this is a different registration form)
-
-<table>
-  <tr>
-    <td>12:00-2:00pm daily</td>
-    <td><a href="../python_6h">Introduction to programming with Python</a></td>
-  </tr>
-  <tr>
-    <td>12:00-2:00pm daily</td>
-    <td><a href="../r_6h">Introduction to programming with R</a></td>
-  </tr>
-</table>
