@@ -22,8 +22,7 @@ In the second part we will take a look at some of the libraries
 in more details, including pandas for working with large
 tables, simple plotting with matplotlib, and few others.
 
-* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-  (this is a different registration form)
+* [Workshop material](https://wgpages.netlify.app/3daypython/)
 
 #### Biography
 

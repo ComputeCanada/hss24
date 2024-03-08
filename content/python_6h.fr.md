@@ -29,8 +29,7 @@ tableaux de données et de les visualiser au moyen de graphiques.
 Si vous préférez participer à des ateliers en français, vous pouvez voir
 l'offre de [Calcul Québec sur Eventbrite](https://www.eventbrite.ca/o/calcul-quebec-8295332683).*
 
-* [**Inscrivez-vous ici**](https://docs.google.com/forms/d/e/1FAIpQLSdZP7g9VbBTLuYiUiPNk34R5WMnnzHSUUa9SF98VePIWzRzLQ/viewform)
-  (c'est un formulaire d'inscription différent)
+* [Matériel de l'atelier](https://wgpages.netlify.app/3daypython/)
 
 #### Biographie
 

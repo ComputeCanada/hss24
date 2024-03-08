@@ -23,8 +23,7 @@ use the popular packages from the tidyverse, and plot and analyse data.
 By the end of the workshop, you should be self-sufficient
 and able to use and keep learning R by yourself.
 
-* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-  (this is a different registration form)
+* [Workshop material](https://mint.westdri.ca/r/top_hss)
 
 #### Biography
 
