@@ -15,8 +15,6 @@ be offering hands-on introductory workshops to programming with Python
 and with R for researchers in the humanities, arts, and social sciences.
 **These workshops will be run simultaneously over six hours on February 26, 27, and 28**.
 
-* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)
-
 <table>
   <tr>
     <td>12:00-2:00pm daily</td>

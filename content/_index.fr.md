@@ -16,9 +16,6 @@ chercheurs qui veulent utiliser des outils numériques dans
 leur projet de recherche en sciences humaines et sociales.
 
 * Voir le **[programme ici](program)**
-* **[Inscription aux ateliers de programmation
-  ](https://docs.google.com/forms/d/e/1FAIpQLSdZP7g9VbBTLuYiUiPNk34R5WMnnzHSUUa9SF98VePIWzRzLQ/viewform)**
-  (du 26 au 28 février)
 
 *La plupart des ateliers sont admissibles au
 Certificat Canadien en Humanités Numériques (cc:DH/HN).

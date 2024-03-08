@@ -49,11 +49,6 @@ name = "Program 🕗"
 url = "/program/"
 weight = 1
 [[menu.main]]
-identifier = "id_registration"
-name = "Registration to Hands-on Workshops ✔️"
-url = "https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform"
-weight = 2
-[[menu.main]]
 identifier = "id_contact"
 name = "Contact 📬"
 url = "/contact/"
@@ -67,11 +62,6 @@ identifier = "id_program"
 name = "Programme 🕗"
 url = "/program/"
 weight = 1
-[[languages.fr.menu.main]]
-identifier = "id_registration"
-name = "Inscription aux ateliers de programmation ✔️"
-url = "https://docs.google.com/forms/d/e/1FAIpQLSdZP7g9VbBTLuYiUiPNk34R5WMnnzHSUUa9SF98VePIWzRzLQ/viewform"
-weight = 2
 [[languages.fr.menu.main]]
 identifier = "id_contact"
 name = "Nous joindre 📬"

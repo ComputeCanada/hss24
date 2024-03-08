@@ -15,9 +15,6 @@ will be offering an introductory digital research tools webinar
 series for humanities, arts and social sciences researchers.
 
 * See the **[program here](program)**
-* **[Registration to hands-on programming workshops
-  ](https://docs.google.com/forms/d/e/1FAIpQLSegbJDI3x42wy-ExbhFRI0_ZtN-BlQnofLs83fbnHFXnYYYbQ/viewform)**
-  (February 26-28)
 
 *Most of these workshops are eligible to count towards the
 Canadian Certificate for Digital Humanities (cc:DH/HN).
