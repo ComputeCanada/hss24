@@ -13,7 +13,7 @@ slug = "python"
 **Description**: Dans un notebook Python, nous verrons comment utiliser des variables, des listes et des
 dictionnaires, comment définir et appeler des fonctions et comment utiliser des bibliothèques externes.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* [Matériel de formation](https://swcarpentry.github.io/python-novice-inflammation/)
 
 #### Biographie
 

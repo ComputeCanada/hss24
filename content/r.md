@@ -21,8 +21,7 @@ benefit most from learning it.
 This high-level introduction will be followed by a hands-on workshop to get you started in R the week after
 the HSS Series.
 
-- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
-- [Slides](https://mint.westdri.ca/r/ws_r_demo_slides)
+* [Slides](https://mint.westdri.ca/r/ws_r_demo_slides)
 
 #### Biography
 

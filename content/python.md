@@ -17,8 +17,7 @@ lecture-style course will be followed by a separate, full-day interactive Python
 thoroughly study all these topics through hands-on exercises. This follow-up workshop will occur in the weeks
 after the 2024 HSS Winter Series.
 
-- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
-- [Workshop notes](https://wgpages.netlify.app/humanitiespython)
+* [Workshop notes](https://wgpages.netlify.app/humanitiespython)
 
 #### Biography
 

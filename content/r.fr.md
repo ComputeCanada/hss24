@@ -17,7 +17,8 @@ terminant par un aperçu de son utilisation dans les grappes de calcul.
 Pour donner suite à l’école hivernale des SHS, un
 atelier interactif avec R sera offert par Calcul Québec.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* [Matériel de formation](https://github.com/hgingras/Formation-R_demo_HSS)
+* [Configuration et jeu de données](https://datacarpentry.org/r-socialsci/#setup-instructions)
 
 #### Biographie
 
