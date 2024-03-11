@@ -19,7 +19,6 @@ graphs — think of this as an extension of traditional 2D plotting to the third
 suddenly visualize much bigger datasets. This lecture-style course will have many live demos that you can try
 running on your own computer after the course.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
 * [11.6MB ZIP file](http://bit.ly/hssviszip) with PDF slides, sample data and scripts inside
 
 #### Biography
