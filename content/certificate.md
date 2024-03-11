@@ -20,7 +20,7 @@ who are looking for places to gain new skills.
 
 For more information on the certificate, visit https://ccdhhn.ca
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides](https://docs.google.com/presentation/d/1tQSNGTN7RwdIO738ZFVFAxxweS0vOb0ePB731f45DeU/edit)
 
 #### Biography
 

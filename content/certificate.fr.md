@@ -23,7 +23,8 @@ personnes qui cherchent des endroits pour développer leurs habiletés.
 Si vous souhaitez en savoir plus sur le certificat,
 visitez https://ccdhhn.ca/fr.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* [Diapositives](https://docs.google.com/presentation/d/1tQSNGTN7RwdIO738ZFVFAxxweS0vOb0ePB731f45DeU/edit)
+  (en anglais)
 
 #### Biographie
 

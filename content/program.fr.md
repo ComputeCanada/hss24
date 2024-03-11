@@ -6,29 +6,6 @@ aliases: ["program"]
 author: "HSS National Team"
 ---
 
-## Ateliers de programmation
-
-### 26 au 28 février
-
-Pour faire suite à l'École hivernale des sciences humaines et sociales (SHS)
-2024, la Fédération de l'Alliance offrira deux ateliers de programmation,
-un en Python et l'autre en R, pour les chercheuses et chercheurs en SHS.
-**Ces deux ateliers donnés en anglais seulement et en simultané auront
-chacun une durée totale de six heures sur une période de trois jours**.
-Si vous préférez participer à des ateliers en français, vous pouvez voir
-l'offre de [Calcul Québec sur Eventbrite](https://www.eventbrite.ca/o/calcul-quebec-8295332683).
-
-<table>
-  <tr>
-    <td>12h à 14h à chaque jour</td>
-    <td><a href="../python_6h">Introduction à la programmation avec Python</a></td>
-  </tr>
-  <tr>
-    <td>12h à 14h à chaque jour</td>
-    <td><a href="../r_6h">Introduction à la programmation avec R</a></td>
-  </tr>
-</table>
-
 ## Programme principal
 
 *Toutes les heures sont exprimées en **heure normale de l’Est** (HNE).*
@@ -114,5 +91,28 @@ au Certificat Canadien en Humanités Numériques (cc:DH/HN).</span>
   <tr>
     <td>14h30&#x00A0;à&#x00A0;15h30</td>
     <td colspan="3"><a href="../vis">Visualisation 3D</a></td>
+  </tr>
+</table>
+
+## Ateliers de programmation
+
+### 26 au 28 février
+
+Pour faire suite à l'École hivernale des sciences humaines et sociales (SHS)
+2024, la Fédération de l'Alliance offrira deux ateliers de programmation,
+un en Python et l'autre en R, pour les chercheuses et chercheurs en SHS.
+**Ces deux ateliers donnés en anglais seulement et en simultané auront
+chacun une durée totale de six heures sur une période de trois jours**.
+Si vous préférez participer à des ateliers en français, vous pouvez voir
+l'offre de [Calcul Québec sur Eventbrite](https://www.eventbrite.ca/o/calcul-quebec-8295332683).
+
+<table>
+  <tr>
+    <td>12h à 14h à chaque jour</td>
+    <td><a href="../python_6h">Introduction à la programmation avec Python</a></td>
+  </tr>
+  <tr>
+    <td>12h à 14h à chaque jour</td>
+    <td><a href="../r_6h">Introduction à la programmation avec R</a></td>
   </tr>
 </table>

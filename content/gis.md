@@ -16,7 +16,7 @@ Geographic Information Systems (GIS) and familiarize ourselves with the differen
 map. We will perform some basic operations and we will discover the open data available within QGIS and
 elsewhere on the web.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides](#) (not yet available)
 
 #### Biography
 

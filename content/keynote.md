@@ -24,7 +24,7 @@ on the topic of supporting Digital Humanities and Social
 Sciences in either the past (then) or the future (then).
 Questions about the present (now) will also be welcome.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides](https://docs.google.com/presentation/d/1yIU8vChy62_xFSWjaXNlg3saMyHpNRs7TUcfNKbLT8M/edit)
 
 #### Biography
 

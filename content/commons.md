@@ -18,7 +18,7 @@ professional profile, build community, and develop and mobilize knowledge using 
 geographically, and culturally diverse community of HSS researchers in Canada. This event will take place in
 English, but slides translated into French will also be available.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides](https://docs.google.com/presentation/d/1U6mKRvqlHf4d4Qr8C_gjpsaK5Ays3_CyVNRumtWuR3o/edit)
 
 #### Biographies
 

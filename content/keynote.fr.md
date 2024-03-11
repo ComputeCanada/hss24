@@ -31,7 +31,7 @@ Les questions à la fin pourront être posées en français.
 Les réponses en anglais du présentateur
 seront traduites en français sur demande.*
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* [Diapositives](https://docs.google.com/presentation/d/1GrPr9f_1J-OW7FkL5dK4W8rt72CuoyHzVhYz-90qfVE/edit)
 
 #### Biographie
 
