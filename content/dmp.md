@@ -15,7 +15,7 @@ Plan (DMP) Assistant tool. A high-level overview of research data management and
 provided, as well as concrete examples, resources, and best practices in the creation of a data management
 plan for humanities and social sciences related research.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides](https://drive.google.com/file/d/1TyzRWJES_LvrHXfDfQA5myTRA6xoxZdK/view)
 
 #### Biography
 

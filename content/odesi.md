@@ -20,7 +20,7 @@ across thousands of datasets, supporting rich discovery and basic tabulation and
 session we will provide an overview of Odesi and available features, highlighting ways researchers can search,
 explore, and reuse data in the collections.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides](https://drive.google.com/file/d/1JsJy_Bbhg4QATFRM8WhFfjgTODgX9GIU/view)
 
 #### Biography
 

@@ -40,7 +40,8 @@ de découverte de données du Canada (Lunaris).
 Nous vous invitons à vous inscrire aussi à la présentation
 suivante pour en apprendre davantage sur [Odesi](../odesi/)!
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* [Diapositives - Lunaris et DFDR](https://drive.google.com/file/d/1cJUAe4rNJWFNmOfs-CD-7_OGm_36v_ZF/view)
+* [Diapositives - Borealis](https://drive.google.com/file/d/1XI4EJjoNjvcz1qUygXAi--VKM5Hh1ZCO/view)
 
 #### Biographies
 

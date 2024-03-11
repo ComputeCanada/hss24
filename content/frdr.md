@@ -32,7 +32,9 @@ of how each platform can be used to support the research lifecycle.
 
 Please stay on for the next 30-minute session to hear more about [Odesi](/odesi/)!
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Slides - Lunaris and FRDR](https://drive.google.com/file/d/1u-LMlXZXZ4E7_hwyH6AAuWfc0SZmVwNB/view)
+* [Slides - Borealis](https://drive.google.com/file/d/12VudnAcnUq7NLQMf26xuSDp7RLO1IcEW/view)
+
 
 #### Biographies
 
