@@ -23,7 +23,8 @@ le préservation et la publication de textes encodés selon TEI.
 Aucune expérience préalable avec les langages de balisage,
 l’encodage de texte ou les humanités numériques n’est requise.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* Matériel de formation en [diapositives](/tei_slides_fr.html)
+  ou en [format d'une page](https://demo.hedgedoc.org/s/d8l4pnLZN#)
 
 #### Biographie
 

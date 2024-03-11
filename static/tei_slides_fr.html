@@ -1,0 +1,345 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="mobile-web-app-capable" content="yes">
+        
+        
+        <meta name="description" content="# Atelier de TEI  ### École hivernale en ligne des sciences humaines et sociales 2024   ##### Yanet ">
+        
+        <base href="https://demo.hedgedoc.org/">
+        <title>Atelier de TEI - HedgeDoc</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="https://demo.hedgedoc.org/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://demo.hedgedoc.org/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://demo.hedgedoc.org/icons/favicon-16x16.png">
+<link rel="manifest" href="https://demo.hedgedoc.org/icons/site.webmanifest">
+<link rel="mask-icon" href="https://demo.hedgedoc.org/icons/safari-pinned-tab.svg" color="#b51f08">
+<link rel="shortcut icon" href="https://demo.hedgedoc.org/icons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="HedgeDoc - Ideas grow better together">
+<meta name="application-name" content="HedgeDoc - Ideas grow better together">
+<meta name="msapplication-TileColor" content="#b51f08">
+<meta name="msapplication-config" content="https://demo.hedgedoc.org/icons/browserconfig.xml">
+<meta name="theme-color" content="#b51f08">
+
+        <link rel="stylesheet" href="https://demo.hedgedoc.org/build/reveal.js/css/reveal.css">
+        <link rel="stylesheet" href='https://demo.hedgedoc.org/build/emojify.js/dist/css/basic/emojify.min.css'>
+        <link href="build/font-pack.6f3ecd0bf31c428a95f7.css" rel="stylesheet"><link href="build/2.011fed84e8b0e1b602b9.css" rel="stylesheet"><link href="build/24.67a0a5daa4bc987211b4.css" rel="stylesheet"><link href="build/slide-styles.0d5057d79e54b6b5a6ab.css" rel="stylesheet"><link href="build/1.c696cbbf0654f912e3b9.css" rel="stylesheet"><link href="build/slide.c6f6bc9d3b00af8194ce.css" rel="stylesheet">
+
+        <!-- For reveal.js theme -->
+        
+        <link rel="stylesheet" href="https://demo.hedgedoc.org/build/reveal.js/css/theme/black.css" id="theme">
+        
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="https://demo.hedgedoc.org/build/reveal.js/lib/css/zenburn.css">
+        <!-- For overwrite reveal.js -->
+        <link rel="stylesheet" href="https://demo.hedgedoc.org/css/slide.css">
+
+        <!-- Printing and PDF exports -->
+        <script nonce="21385c45-864f-4239-a426-8f266b113acf">
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = 'https://demo.hedgedoc.org/build/reveal.js/' + (window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css');
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+    </head>
+    <body translate="no">
+        <div class="container">
+            <div class="reveal">
+                <div class="slides"># Atelier de TEI
+
+### École hivernale en ligne des sciences humaines et sociales 2024
+
+
+##### Yanet Hernandez
+
+Doctorante en Littérature option Humanités Numériques (Université de Montréal)
+
+---
+
+## Sommaire
+
+- Définition de la TEI
+- Brève introduction aux langages de balisage
+- L&#39;XML-TEI
+- Les schémas personnalisés
+- Ressources
+
+---
+
+## La TEI
+&lt;div style=&#34;font-size:2.5rem&#34;&gt;
+
+&gt; La TEI (Text Encoding Initiative) est un consortium qui développe et maintient collectivement une norme pour la représentation de textes sous forme numérique. Son principal objectif est un ensemble de lignes directrices qui précisent les méthodes de codage des textes lisibles par machine, principalement dans les domaines des sciences humaines, des sciences sociales et de la linguistique.
+
+&lt;/div&gt;
+
+&lt;div style=&#34;font-size:1rem&#34;&gt;
+Définition de TEI sur la page d&#39;accueil du site de la &lt;a href=&#34;https://tei-c.org&#34;&gt;Text Encoding Initiative (TEI)&lt;/a&gt;
+&lt;/div&gt;
+
+---
+
+### La TEI fournit un standard pour le balisage de corpus littéraires et scientifiques en XML (langage de balisage extensible)
+
+---
+
+## D&#39;autres langages de type XML
+
+---
+
+HTML (HyperText Markup Language: pour le sites web)
+
+---
+
+KML (Keyhole Markup Language: Google Maps)
+&lt;div&gt;
+  &lt;pre&gt;&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt;
+&lt;kml xmlns=&#34;http://www.opengis.net/kml/2.2&#34;&gt;
+&lt;Document&gt;
+&lt;Placemark&gt;
+  &lt;name&gt;New York City&lt;/name&gt;
+  &lt;description&gt;New York City&lt;/description&gt;
+  &lt;Point&gt;
+    &lt;coordinates&gt;-74.006393,40.714172,0&lt;/coordinates&gt;
+  &lt;/Point&gt;
+&lt;/Placemark&gt;
+&lt;/Document&gt;
+&lt;/kml&gt;&lt;/pre&gt;&lt;/div&gt;
+
+---
+
+RDF (Resource Description Framework: catalogues de bibliothèques)
+&lt;div&gt;
+  &lt;pre&gt;&lt;rdf:Description rdf:about=&#34;http://www.w3.org/TR/rdf-syntax-grammar&#34;&gt;
+  &lt;ex:editor&gt;
+    &lt;rdf:Description&gt;
+      &lt;ex:homePage rdf:resource=&#34;http://purl.org/net/dajobe/&#34;/&gt;
+      &lt;ex:fullName&gt;Dave Beckett&lt;/ex:fullName&gt;
+    &lt;/rdf:Description&gt;
+  &lt;/ex:editor&gt;
+  &lt;dc:title&gt;RDF 1.1 XML Syntax&lt;/dc:title&gt;
+&lt;/rdf:Description&gt;&lt;/pre&gt; 
+&lt;/div&gt;
+
+---
+
+SVG (Scalable Vector Graphics: des images numériques)
+&lt;div style=&#34;display:flex;flex-wrap:wrap&#34;&gt;
+&lt;div style=&#34;width:60%; margin-right: 2rem&#34;&gt;
+  &lt;pre&gt;&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt;
+&lt;!DOCTYPE svg PUBLIC &#34;-//W3C//DTD SVG 1.1//EN&#34; &#34;http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd&#34;&gt;
+&lt;svg width=&#34;391&#34; height=&#34;391&#34; viewBox=&#34;-70.5 -70.5 391 391&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;http://www.w3.org/1999/xlink&#34;&gt;
+&lt;rect fill=&#34;#fff&#34; stroke=&#34;#000&#34; x=&#34;-70&#34; y=&#34;-70&#34; width=&#34;390&#34; height=&#34;390&#34;/&gt;
+&lt;g opacity=&#34;0.8&#34;&gt;
+	&lt;rect x=&#34;25&#34; y=&#34;25&#34; width=&#34;200&#34; height=&#34;200&#34; fill=&#34;lime&#34; stroke-width=&#34;4&#34; stroke=&#34;pink&#34; /&gt;
+	&lt;circle cx=&#34;125&#34; cy=&#34;125&#34; r=&#34;75&#34; fill=&#34;orange&#34; /&gt;
+	&lt;polyline points=&#34;50,150 50,200 200,200 200,100&#34; stroke=&#34;red&#34; stroke-width=&#34;4&#34; fill=&#34;none&#34; /&gt;
+	&lt;line x1=&#34;50&#34; y1=&#34;50&#34; x2=&#34;200&#34; y2=&#34;200&#34; stroke=&#34;blue&#34; stroke-width=&#34;4&#34; /&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;img src=&#34;https://s3.hedgedoc.org/demo/uploads/448df74e-0d3a-4cf5-bd55-0ba71b129fe4.png&#34; width=&#34;100&#34; height=&#34;100&#34;&gt;
+    
+&lt;/div&gt;
+
+---
+
+OOXML (Open Office XML: pour le documents word, par exemple)
+
+&lt;div style=&#34;display:flex;flex-wrap:wrap&#34;&gt;
+&lt;div style=&#34;margin-right:1rem;width:45%&#34;&gt;
+    &lt;img src=&#34;https://s3.hedgedoc.org/demo/uploads/2c165759-ee35-4dda-aa00-ecc3dfdb4379.png&#34;&gt;
+    &lt;/div&gt;    
+
+&lt;div style=&#34;margin-right:1rem;width:45%&#34;&gt;
+&lt;img src=&#34;https://s3.hedgedoc.org/demo/uploads/f3efc47b-f63e-472b-b279-0d5828d7b97d.png&#34;/&gt;&lt;/div&gt;
+
+    
+&lt;/div&gt;
+
+---
+
+L&#39;XML fonctionne un tant que base de données textuelles et la TEI fournie le standard pour cette base de données.
+
+---
+
+## L&#39;XML-TEI
+
+- permet d&#39;organiser la information dans le texte (forme)
+
+---
+
+## L&#39;XML-TEI
+
+- permet d&#39;ajouter des couches d&#39;information : des interprétations, des analyses, des annotations (contenu)
+
+---
+
+## L&#39;XML-TEI
+
+- permet l&#39;échange, l&#39;interopérabilité et la réutilisabilité des données textuelles
+
+---
+
+## Liste de projets qui utilisent l&#39;XML-TEI
+
+- [Les manuscrits de Madame Bovary](https://www.bovary.fr/)
+- [Pulter Project](https://pulterproject.northwestern.edu)
+- [Walter Benjamin en édition numérique](https://www.walter-benjamin.online/)
+- [CatCor](https://catcor.seh.ox.ac.uk)
+
+---
+
+## Comment utiliser exactement la TEI et à quoi cela ressemble ? 
+
+---
+
+### Exemple simple de fichier XML-TEI
+
+##### L&#39;en-tête
+&lt;div&gt;
+    &lt;pre&gt;
+&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt;
+&lt;TEI xmlns=&#34;http://www.tei-c.org/ns/1.0&#34;&gt;
+&lt;teiHeader&gt;
+    &lt;fileDesc&gt;
+        &lt;titleStmt&gt;
+        &lt;title&gt;Exemple simple&lt;/title&gt;
+        &lt;/titleStmt&gt;
+        &lt;publicationStmt&gt;
+            &lt;p&gt;Publié comme example par SHS.&lt;/p&gt;
+        &lt;/publicationStmt&gt;
+        &lt;sourceDesc&gt;
+            &lt;p&gt;Pas de sources : produit nativement numérique.&lt;/p&gt;
+        &lt;/sourceDesc&gt;
+      &lt;/fileDesc&gt;
+    &lt;/teiHeader&gt;
+&lt;/TEI&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+
+---
+
+##### Le corps du texte
+&lt;div style=&#34;display:flex;flex-wrap:wrap&#34;&gt;
+ &lt;div style=&#34;margin-right:1rem;width:45%&#34;&gt;
+&lt;pre&gt;&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt;
+&lt;TEI xmlns=&#34;http://www.tei-c.org/ns/1.0&#34;&gt;
+&lt;teiHeader&gt;&lt;/teiHeader&gt;
+&lt;text&gt;
+    &lt;body&gt;
+       &lt;head&gt;Exemple&lt;/head&gt;&lt;div&gt;&lt;p ana=&#34;#req&#34;&gt;Si on éclairera les salles des gardes &lt;lb/&gt; 
+de &lt;hi rend=&#34;bigger&#34;&gt;Votre Majesté&lt;/hi&gt;, des gardes de &lt;lb/&gt; 
+la Porte&lt;ref type=&#34;note&#34; target=&#34;#n-007&#34;/&gt; et des Cent Suisses.&lt;/p&gt;
+&lt;/div&gt;
+    &lt;/body&gt;
+&lt;/text&gt;
+&lt;/TEI&gt;
+    &lt;/pre&gt;&lt;/div&gt;
+&lt;div style=&#34;margin-right:1rem;width:45%&#34;&gt;    
+&lt;img src=&#34;https://s3.hedgedoc.org/demo/uploads/53e99532-31d0-45d6-b816-1d22bcdd0e00.png&#34;/&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+---
+
+[TEI By Example](https://teibyexample.org/)
+
+---
+
+## Éditeurs pour l&#39;XML
+
+- Le logiciel [Oxygen](https://www.oxygenxml.com)
+- VSCODE + SCHOLARLY XML EXTENSION
+- [Leaf-Writer](https://leaf-writer.leaf-vre.org/)
+
+---
+
+## C&#39;est quoi un schéma ? 
+
+Le schéma en XML va être la référence que la machine va utiliser pour valider le document en s&#39;assurant que celui-ci a la structure correcte.
+
+---
+
+## Les schémas personnalisés 
+
+- La plateforme [Roma](https://roma.tei-c.org/) pour la personnalisation de schémas
+- Pour utiliser les schémas personnalisés par le Consortium de la TEI (https://tei-c.org/guidelines/customization/)
+
+---
+
+## Pourquoi utiliser l&#39;XML-TEI pour encoder mon corpus ?
+
+- Exploitation orientée données : utilisation du texte en tant que données réutilisables et exploitables de différentes manières
+ 
+ [ce qui n&#39;est pas encodé ne pourra être facilement exploité]
+
+
+---
+
+## Plus de ressources
+
+### XSLT
+
+- [TEI GARAGE](https://teigarage.tei-c.org/) - Convertisseur de fichiers, y compris du format ODD à RELAX NG schema pour les schémas personnalisés.
+- [Générateur de XSLT](https://www.xsltgenerator.com/signin)
+- [Application de la transformation en utilisant le navigateur](https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example)
+- [CETEICEAN 🐳](https://github.com/TEIC/CETEIcean)
+
+---
+
+## En savoir plus
+
+[The TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/fr/html/index.html)
+[La TEI simplifiée : une introduction au codage des textes électroniques en vue de leur échange](https://tei-c.org/Vault/P4/Lite/teiu5_fr.html)
+[TEI By Example](https://teibyexample.org/)
+[TEI GitHub](https://github.com/TEIC/TEI)
+[TEI listServ](https://listserv.brown.edu/cgi-bin/wa?A0=TEI-L)
+
+---
+
+# Merci !
+
+---
+
+
+
+</div>
+            </div>
+
+            <div id="meta">{}</div>
+
+            <div class="footer">
+                <div class="unselectable hidden-print gray-font">
+                    <small>
+                        <span>
+                            
+                                <span class="ui-no-lastchangeuser">&thinsp;<i class="fa fa-clock-o fa-fw"></i></span>
+                            
+                            &nbsp;<span class="text-uppercase ui-status-lastchange"></span>
+                            <span class="ui-lastchange text-uppercase" data-createtime="Sun Feb 04 2024 02:22:45 GMT+0000 (Coordinated Universal Time)" data-updatetime="Wed Feb 14 2024 19:08:20 GMT+0000 (Coordinated Universal Time)"></span>
+                        </span>
+                        <span class="pull-right">74 views <a href="#" class="ui-edit" title="Edit this note"><i class="fa fa-fw fa-pencil"></i></a><a class="ui-print" href="" title="Open print view"><i class="fa fa-fw fa-print"></i></a></span>
+                        <br>
+                        
+                    </small>
+                </div>
+                
+            </div>
+        </div>
+
+        <script src="https://demo.hedgedoc.org/js/mathjax-config-extra.js"></script>
+        <script src="https://demo.hedgedoc.org/build/MathJax/MathJax.js" defer></script>
+        <script src="https://demo.hedgedoc.org/build/MathJax/config/TeX-AMS-MML_HTMLorMML.js" defer></script>
+        <script src="https://demo.hedgedoc.org/build/MathJax/config/Safe.js" defer></script>
+        <script src="config"></script><script src="build/vendors~cover~cover-pack~index~index-pack~pretty~pretty-pack~slide~slide-pack.d107ac6ccdc2f7684946.js" defer="defer"></script><script src="build/vendors~index~index-pack~pretty~pretty-pack~slide~slide-pack.c217c0bbbb4fe6207dc2.js" defer="defer"></script><script src="build/slide-pack.49b8906fe5f397ef7c12.js" defer="defer"></script>
+    </body>
+</html>
+
+
+

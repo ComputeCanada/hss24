@@ -31,7 +31,7 @@ pourrons ensuite exporter en divers formats.
 **Requis techniques**: Créez un
 [compte Stylo gratuit](https://stylo.huma-num.fr/) avant la séance.
 
-* Inscrivez-vous [ici](https://docs.google.com/forms/d/e/1FAIpQLSfA-hrSIZrCyq7jeLJTDU_Nh9QA3UuhWhYTqvIkmfk-KDEDoQ/viewform)
+* [Matériel de formation](https://stylo.huma-num.fr/article/65c1f17229637c00126e878c/preview)
 
 #### Biographie
 

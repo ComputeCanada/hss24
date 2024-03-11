@@ -28,7 +28,7 @@ formats.
 **Technical requirements**: Sign up for a
 [free Stylo account](https://stylo.huma-num.fr/) before the session.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Training material](https://stylo.huma-num.fr/article/65c205e529637c00126e8ab8/preview)
 
 #### Biography
 

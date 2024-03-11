@@ -18,7 +18,8 @@ TEI to enrich their digital archives. We will also discuss the wide variety of t
 the TEI community for creating, sustaining, and publishing TEI encoded texts. No prior experience with markup
 languages, text encoding, or the digital humanities necessary.
 
-* Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdLRXTc72v6vSdUO5p8_SuLUtUmTQPGLM2-66I14L_xVqFdiA/viewform)
+* [Training material](https://www.sfu.ca/~takeda/teiworkshop/)
+* [Slides](https://www.sfu.ca/~takeda/teiworkshop/2024-02-14/index.html)
 
 #### Biography
 

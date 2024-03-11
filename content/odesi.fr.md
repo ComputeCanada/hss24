@@ -25,7 +25,7 @@ données, permettant de riches découvertes et analyses en ligne.
 Bref, nous ferons un survol des fonctionnalités disponibles, des méthodes de
 recherche, d’exploration et de réutilisation des données dans les collections.
 
-* [Diapositives](#) (pas encore disponibles)
+* [Diapositives](https://drive.google.com/file/d/10ciFrmDxaXqCuQjhMeKJKb7GLcmeUwC5/view)
 
 #### Biographie
 
