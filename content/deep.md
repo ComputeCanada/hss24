@@ -22,7 +22,9 @@ The goals are to:
 - give an overview of the field, and
 - point out resources to get you started using DL, LLMs, or NLP for your research.
 
-* [Slides](#) (not yet available)
+Resources:
+
+* [Slides](https://mint.westdri.ca/ai/ws_dl_nlp_llm_slides)
 
 #### Biography
 
