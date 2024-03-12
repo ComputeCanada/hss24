@@ -16,7 +16,7 @@ tout le monde parle? Comment puis-je créer un réseau de neurones? Qu’est-ce 
 Cette présentation vous donnera les réponses à ces questions au moyen d’une vulgarisation de ces concepts
 d’une discipline désormais cruciale pour la recherche de tout domaine.
 
-* [Diapositives](#) (pas encore disponibles)
+* [Diapositives](https://docs.google.com/presentation/d/1ap97ejMwf-gHWaZS6lKhnsoOJ7hvOL6E0NpKqHB3R7s/edit)
 
 #### Biographie
 
