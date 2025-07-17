@@ -2,7 +2,9 @@ baseURL = "https://hss24.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "anubis"
-paginate = 3
+
+[pagination]
+  pagerSize = 3
 
 disqusShortname = ""
 googleAnalytics = ""
