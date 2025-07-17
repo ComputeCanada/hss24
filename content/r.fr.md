@@ -28,3 +28,6 @@ Elle poursuit en ce moment le microprogramme
 en informatique à l’Université Laval.
 Elle a rejoint récemment Calcul Québec à titre d’analyste
 et fait de l’aide aux utilisateurs des ressources de calcul.
+
+<br>
+{{< youtube 6ueQ3lZOaBs >}}

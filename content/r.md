@@ -31,3 +31,6 @@ Burle** develops and delivers training for researchers on
 high-performance computing tools (R, Python, Julia, Git, Bash
 scripting, machine learning, parallel scientific programming, HPC…)
 for Simon Fraser University and the Digital Research Alliance of Canada.
+
+<br>
+{{< youtube ZDDiuRfYD-Y >}}

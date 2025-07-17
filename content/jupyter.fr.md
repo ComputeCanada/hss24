@@ -27,3 +27,6 @@ Sherbrooke, **Charles Coulombe** a travaillé quelques années
 dans le privé avant de rejoindre Calcul Québec en 2017.
 À Calcul Québec, Charles soutient les utilisatrices et utilisateurs
 des ressources de calcul et est également coordonnateur des formations.
+
+<br>
+{{< youtube YZM_zjtSRwI >}}

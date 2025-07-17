@@ -28,3 +28,6 @@ joining UBC, he worked as a Business Librarian at Okanagan College where
 his focus was training students on data literacy and business research.
 He is active in the national support landscape for DRI in Canada, co-chairing
 the Digital Research of Alliance National Training and Education Group.
+
+<br>
+{{< youtube QunkOFFsPtQ >}}

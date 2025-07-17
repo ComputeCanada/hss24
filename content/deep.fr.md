@@ -31,3 +31,6 @@ les concepts plus compliqués que ce qu’ils sont vraiment.
 Enfin, il est diplômé d’une maîtrise en gestion
 d’innovation et d’entrepreneurship de Queen’s University
 et d’un DESS en statistiques de Stanford University.
+
+<br>
+{{< youtube gRQm_0T2et0 >}}

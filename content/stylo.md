@@ -44,3 +44,6 @@ hermeneutics to the interpretation of computer code.
 She is scientific coordinator of the Canada Research Chair
 on Digital Textualities and is affiliated with the Centre
 de recherche interuniversitaire sur les humanités numériques.
+
+<br>
+{{< youtube tctgcrMHkn0 >}}

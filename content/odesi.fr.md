@@ -38,3 +38,6 @@ Guinsly donne aussi du soutien à l’utilisation d’Odesi
 (https://odesi.ca) et fait la coordination du programme
 Odesi Markit, un réseau distribué de curation pour les dépositaires
 de données et la maintenance des collections dans le dépôt.
+
+<br>
+{{< youtube IIt-SqlG6wA >}}

@@ -40,3 +40,6 @@ et les guide dans leurs premières étapes sur les
 serveurs de l'Alliance, quelle que soit leur expérience.
 Enfin, elle a dirigé la création du chapitre Women in HPC
 de Calcul Québec, qui a obtenu le statut actuel d’affilié.
+
+<br>
+{{< youtube 2oEk4fJsJMs >}}

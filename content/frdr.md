@@ -67,3 +67,6 @@ Group, Digital Preservation Expert Group, and the Data Curation Expert Group.
 **Neha Milan**, the Product Lead of the Federated Research Data Repository
 (FRDR) and affiliated with the University of Saskatchewan, is responsible
 for supervising the continuous design and development of the FRDR Platform.
+
+<br>
+{{< youtube 2dhiNPc8sIc >}}

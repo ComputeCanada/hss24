@@ -29,3 +29,6 @@ six-month postdoctoral research program.
 Elie has five years of experience as an Application Developer.
 He is currently working as an analyst at Calcul
 Québec, associated with Concordia University.
+
+<br>
+{{< youtube zsjfFEz8gUE >}}

@@ -22,3 +22,6 @@ a travaillé pendant plus de 20 ans dans un laboratoire de recherche
 où il offrait son support aux professeurs et étudiants de 2ème cycle.
 Il a rejoint récemment Calcul Québec où il fait partie des
 analystes de support aux utilisateurs des ressources de calcul.
+
+<br>
+{{< youtube VDaFcLDjr48 >}}

@@ -31,3 +31,6 @@ données de recherche à la bibliothèque de l'Université McGill.
 Elle détient une maîtrise en sciences de l’information de
 l’Université McGill et une maîtrise et un doctorat en sciences
 politiques de la University of California, Santa Barbara.
+
+<br>
+{{< youtube 1zOHT70h9iU >}}

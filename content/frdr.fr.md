@@ -66,3 +66,6 @@ Jonathan est aussi membre du groupe de travail de la gestion
 des données de recherche au Partenariat des bibliothèques
 universitaires du Québec (PBUQ) et un membre du groupe d’experts
 sur la planification de la gestion des données de l’Alliance.
+
+<br>
+{{< youtube bg6BYl86fz4 >}}

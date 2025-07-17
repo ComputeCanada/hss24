@@ -35,3 +35,6 @@ and institutional partners, including the recent Canadian Census
 Data Discovery Partnership Project (CCDDP), a national SSHRC funded
 partnership project to improve discovery and access to historical
 and current Census data in all formats for use in research.
+
+<br>
+{{< youtube OSNqk9aZHYU >}}

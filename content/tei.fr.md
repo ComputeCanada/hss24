@@ -36,3 +36,6 @@ rares et en humanités numériques, elle travaille présentement sur une
 Ses intérêts vont de la vulgarisation d’anciens documents par l’utilisation
 de technologies numériques jusqu’aux travaux de pipelines éditoriaux.
 Elle est membre de l’équipe EVEille.
+
+<br>
+{{< youtube tsSSWwZvs20 >}}

@@ -47,3 +47,6 @@ Chaire de recherche du Canada sur les écritures numériques.
 Il a récemment publié un article dans la revue POP! Public. Open.
 Participatory avec A. Fauchié, M. Sinatra et M. Vitali-Rosati intitulé
 « Exploring New (Digital) Publishing Practices with Le Pressoir ».
+
+<br>
+{{< youtube W-Z6vlVi8cA >}}

@@ -32,3 +32,6 @@ researchers from diverse backgrounds to use large clusters, and in
 2014 moved back to Vancouver to focus on scientific visualization
 and training researchers to use advanced computing tools.
 He is now with Simon Fraser University.
+
+<br>
+{{< youtube Ml4fAkRoK-k >}}
