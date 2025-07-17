@@ -48,3 +48,6 @@ and Versions in Scholarly Collaboration Environments” (2014),
 “Building Ontologies in Theory and Practice” (2013),
 “Getting LODed with Orlando: Linked Open Data and the Orlando Project” (2013),
 and “The Key to All Ontologies?: The Long Now of Linked Data” (2013).
+
+<br>
+{{< youtube qy0jBQsR2a4 >}}

@@ -31,3 +31,6 @@ She has recently co-edited Digital Humanities Workshops (2023)
 with Jennifer Guiliano and a special issue on pedagogy in
 Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH
 3.4, 2023), co-edited with Constance Crompton and Ray Siemens.
+
+<br>
+{{< youtube WoXcHyDmrRQ >}}

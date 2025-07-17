@@ -38,3 +38,6 @@ steps on the Alliance’s servers regardless of the user’s experience.
 She is a recipient of the former Computer Canada Award for
 Outstanding Achievement and she recently won an AnitaB Pass it on award.
 Finally, she led the creation of Calcul Québec’s Women in HPC Chapter.
+
+<br>
+{{< youtube -3saqCY-9I0 >}}

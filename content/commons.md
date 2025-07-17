@@ -68,3 +68,6 @@ that reviews digital projects that study the early modern world.
 In 2015, Randa co-founded the Digital Humanities Institute
 – Beirut – the first digital humanities training
 institute in the Middle East – with David Joseph Wrisley.
+
+<br>
+{{< youtube 9oIYRbzOQGA >}}
